@@ -4,7 +4,7 @@ This project showcases end-to-end data cleaning and exploratory analysis on a **
 
 The goal is to take a raw CSV export, clean it into a reliable table, and then answer key business questions about Netflix’s catalog (content mix, release trends, ratings, etc.).
 
----
+--
 
 ## 🔧 Tech Stack
 
@@ -14,11 +14,11 @@ The goal is to take a raw CSV export, clean it into a reliable table, and then a
 - **Jupyter / Notebook environment** (optional)  
 - **Excel / CSV** – original source file
 
----
+--
 
 ## 📁 Project Structure
 
-```text
+
 netflix-data-cleaning-analysis/
 ├── netflix_titles.csv          # Raw Netflix titles dataset
 ├── netflix_raw.sql             # Script to create and stage the raw table
